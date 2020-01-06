@@ -338,3 +338,12 @@ NewTV,#genre#
 第44集,http://personcloud.woican.cn/A%3A/video/teleplay/qinyunian/44.mp4
 第45集,http://personcloud.woican.cn/A%3A/video/teleplay/qinyunian/45.mp4
 第46集,http://personcloud.woican.cn/A%3A/video/teleplay/qinyunian/46.mp4
+河南-公共频道,http://111.7.174.11/PLTV/88888888/224/3221225947/index.m3u8
+河南-调解剧场,http://111.7.174.11/PLTV/88888888/224/3221225993/index.m3u8
+河南卫视-4K,http://111.7.174.11/PLTV/88888888/224/3221225961/index.m3u8
+河南卫视-4K测试,http://111.7.174.11/PLTV/88888888/224/3221225961/index.m3u8
+河南-都市频道,http://111.7.174.11/PLTV/88888888/224/3221225941/index.m3u8
+河南卫视,http://111.7.174.11/PLTV/88888888/224/3221225940/index.m3u8
+河南-新农村频道,http://111.7.174.11/PLTV/88888888/224/3221225991/index.m3u8
+河南-梨园频道,http://111.7.174.11/PLTV/88888888/224/3221225988/index.m3u8
+
