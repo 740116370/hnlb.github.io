@@ -17,7 +17,7 @@ CCTV-15音乐,http://111.7.154.132:80/wh7f454c46tw3574599822_532029850/iptv.cdn.
 CGTV,http://111.7.154.141:80/wh7f454c46tw3579587344_1880883996/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
 CCTV-17农业农村,http://39.134.221.76:80/wh7f454c46tw3583603749_844770391/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8
 CCTV-体育赛事,http://39.134.221.60:80/wh7f454c46tw3588605983_-1415078323/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
-19 中国教育-1,http://111.7.154.167:80/wh7f454c46tw3593596765_-1187915705/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226471/index.m3u8
+中国教育-1,http://111.7.154.167:80/wh7f454c46tw3593596765_-1187915705/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226471/index.m3u8
 
 河南,#genre#
 河南IPTV导视,http://39.134.221.67:80/wh7f454c46tw3487728111_1083523689/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226464/index.m3u8#http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226665/index.m3u8
